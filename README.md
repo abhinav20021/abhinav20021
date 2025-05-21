@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Pendela</h1>
-<h3 align="center">GenAI Engineer @ TCS | AI & Data Science Enthusiast | Problem Solver | Project Builder</h3>
+<h3 align="center">GenAI Engineer @ TCS | AI & Data Science Enthusiast | ML & NLP Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinavpendela1920" target="_blank">
