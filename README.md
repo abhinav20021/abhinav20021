@@ -67,9 +67,6 @@
 > RAG, LangChain, and Multimodal AI Projects 🌍  
 > Streamlit + LLM-based MVPs for real-world impact 🚀
 
-💡 **Fun Fact:**  
-> I love translating complex problems into smart, scalable solutions!
-
 🧠 Key Technical Skills
 
 👨‍💻 Languages
