@@ -16,7 +16,7 @@
 ---
 
 🎯 **About Me**
-- 👨‍💻 Currently working as a **Generative AI Engineer at Tata Consultancy Services (TCS)**  
+- 👨‍💻 Currently working as a **AI/ML Engineer at Tata Consultancy Services (TCS)**  
 - 🧠 Passionate about **LLMs, AI/ML**, and building real-world solutions with **Python & Deep Learning**
 - 🔍 Specialized in **RAG pipelines, multimodal systems, and LangChain integration**
 - 🛠️ Skilled in **Streamlit, TensorFlow, OpenCV, Firebase**, and more
