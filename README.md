@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Pendela</h1>
-<h3 align="center">Systems Engineer @ TCS | AI & Data Science Enthusiast | ML & NLP Specialist</h3>
+<h3 align="center">AI Engineer @ TCS | AI & Data Science Enthusiast | Agentic AI </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinavpendela1920" target="_blank">
@@ -16,10 +16,10 @@
 ---
 
 🎯 **About Me**
-- 👨‍💻 Currently working as a **AI/ML Engineer at Tata Consultancy Services (TCS)**  
-- 🧠 Passionate about **LLMs, AI/ML**, and building real-world solutions with **Python & Deep Learning**
-- 🔍 Specialized in **RAG pipelines, multimodal systems, and LangChain integration**
-- 🛠️ Skilled in **Streamlit, TensorFlow, OpenCV, Firebase**, and more
+- 👨‍💻 Currently working as a **AI Engineer at Tata Consultancy Services (TCS)**  
+- 🧠 Passionate about **LLMs, AI/ML**, and building real-world solutions with **Generative AI**
+- 🔍 Specialized in **RAG pipelines, Multi tool Agentic Architectures, and LangChain integration**
+- 🛠️ Skilled in **Langchain, Langgraph**, and more
 - 💡 Keen on research and solving impactful problems with innovative tech
 
 ---
@@ -39,10 +39,10 @@
 ---
 
 📜 **Certifications**
+- ✅ Generative AI Leader – **Google**
 - ✅ Python – **NASSCOM**  
 - ✅ Data Science – **NPTEL**
 - ✅ ML & NLP– **UDEMY**
-
 ---
 
 📈 **Coding Profiles**
@@ -64,7 +64,7 @@
 
 
 🧭 **Currently Exploring:**  
-> RAG, LangChain, and Multimodal AI Projects 🌍  
+> Multi Agent AI Projects 🌍  
 > Streamlit + LLM-based MVPs for real-world impact 🚀
 
 🧠 Key Technical Skills
